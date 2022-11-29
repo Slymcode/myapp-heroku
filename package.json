@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-heroku",
+  "name": "myapp-heroku",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
